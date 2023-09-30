@@ -1,4 +1,7 @@
 return {
+  -- Deep Space Theme
+  "tyrannicaltoucan/vim-deep-space"
+
   -- You can also add new plugins here as well:
   -- Add plugins, the lazy syntax
   -- "andweeb/presence.nvim",
