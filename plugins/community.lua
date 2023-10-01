@@ -11,7 +11,4 @@ return {
   { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.pack.php" },
   { import = "astrocommunity.colorscheme.catppuccin" },
-  { import = "astrocommunity.colorscheme.nightfox-nvim", enabled = false },
-  { import = "astrocommunity.colorscheme.kanagawa-nvim", enabled = true },
-  { import = "astrocommunity.colorscheme.rose-pine" },
 }
